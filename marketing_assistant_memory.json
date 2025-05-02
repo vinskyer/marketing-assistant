@@ -1,0 +1,15 @@
+{
+    "user_preferences": {
+        "tone": "direct, constructive, visual",
+        "role": "marketer",
+        "assistant_behavior": {
+            "idea_bouncing": true,
+            "logical_analysis": true,
+            "organization": true
+        },
+        "memory_control": {
+            "remembers_past_sessions": true,
+            "deletable_on_request": true
+        }
+    }
+}
